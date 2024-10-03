@@ -9,7 +9,7 @@ public class Singleton
   *the class, it is used to prove that the reference to 
   *the object is the same
   */
-  public static double RandomNumber { get; set; }
+  public double RandomNumber { get; set; }
 
   //a private constructor
   //only singleton can instantiate a singleton
